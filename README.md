@@ -1,1 +1,1 @@
-# learn\n\Personal codding repo
+Personal codding repo
